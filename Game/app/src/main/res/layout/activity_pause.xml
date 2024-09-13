@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pause">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/dp7"
+        android:scaleType="centerCrop"
+        />
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_baseline_not_started_24"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/resume"
+            android:layout_width="200dp"
+            android:layout_height="67dp"
+            android:text="RESUME"
+            android:textStyle="bold"/>
+        <Button
+            android:id="@+id/back"
+            android:layout_width="200dp"
+            android:layout_height="67dp"
+            android:text="BACK"
+            android:textStyle="bold"/>
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="200dp"
+            android:layout_height="67dp"
+            android:text="EXIT"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

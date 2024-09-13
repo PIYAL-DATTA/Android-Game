@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_about.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_aboutgame.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_easymode.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_level.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_main.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_medium.xml" value="0.1824074074074074" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_menu1.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_menu2.xml" value="0.33" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_pause.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_score.xml" value="0.32592592592592595" />
+        <entry key="..\:/AB helicopter/Game/app/src/main/res/layout/activity_splash2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_about.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_about2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_easy.xml" value="0.33" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_easymode.xml" value="0.33" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_fullscreen.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_level.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_medium.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_menu1.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_menu2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_middle.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_moddle.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_pause.xml" value="0.32592592592592595" />
+        <entry key="..\:/Game/app/src/main/res/layout/activity_splash2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Project helicopter/Game/app/src/main/res/layout/activity_level.xml" value="0.32592592592592595" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

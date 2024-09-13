@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="Widget.Theme.Game.ActionBar.Fullscreen" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="color">@color/white</item>
+
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/black</item>
+
+    </style>
+
+    <style name="AppTheme.noActionBar">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+    </style>
+
+    <style name="Widget.Theme.Game.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>
